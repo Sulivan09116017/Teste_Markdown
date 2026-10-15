@@ -7,3 +7,4 @@
 |-|-|-|
 |1|Sergio|Guerreiro de algum lugar|
 |2|Sulivan Sergio|Mago|
+|3|Sulivan Sergio|Mago|
